@@ -1,0 +1,23 @@
+/* swiper-tab is start */
+
+.swiper-tab {
+  width: 100%;
+  text-align: center;
+  height: 88rpx;
+  line-height: 88rpx;
+  background-color: #fff;
+  display: flex;
+  font-size: 32rpx;
+  border-bottom: 15rpx solid #f1f1f1;
+}
+
+.swiper-tab-item {
+  width: 50%;
+  color: #1a1a1a;
+}
+
+.active {
+  color: #40b7f0;
+}
+
+/* swiper-tab is end */
